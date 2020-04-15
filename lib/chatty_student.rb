@@ -4,4 +4,7 @@ class ChattyStudent
     "Hi"
   end
 
+  def hello 
+  end 
+
 end
