@@ -1,7 +1,7 @@
 class ChattyStudent
 
-  def initialize 
+  def initialize
     "Hi"
   end
-    
-end 
+
+end
